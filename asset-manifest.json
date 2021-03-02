@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6bbff01c.chunk.css",
+    "main.js": "./static/js/main.30503c28.chunk.js",
+    "main.js.map": "./static/js/main.30503c28.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5a023ad9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5a023ad9.js.map",
+    "static/js/2.5c855351.chunk.js": "./static/js/2.5c855351.chunk.js",
+    "static/js/2.5c855351.chunk.js.map": "./static/js/2.5c855351.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.45bce58d325cc1e3d3b23234d53ae8e2.js": "./precache-manifest.45bce58d325cc1e3d3b23234d53ae8e2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.6bbff01c.chunk.css.map": "./static/css/main.6bbff01c.chunk.css.map",
+    "static/js/2.5c855351.chunk.js.LICENSE.txt": "./static/js/2.5c855351.chunk.js.LICENSE.txt",
+    "static/media/antibioticbg.jpg": "./static/media/antibioticbg.fc46048f.jpg",
+    "static/media/biomimeticbg.jpg": "./static/media/biomimeticbg.b7fbe437.jpg",
+    "static/media/biomimeticfig.png": "./static/media/biomimeticfig.26850efa.png",
+    "static/media/biosynthbg.jpg": "./static/media/biosynthbg.bde103dc.jpg",
+    "static/media/biosynthfig.png": "./static/media/biosynthfig.2cb303aa.png",
+    "static/media/Home.css": "./static/media/cover.b1180d16.png",
+    "static/media/footermaclogo.png": "./static/media/footermaclogo.ba442c77.png",
+    "static/media/grouppic.jpg": "./static/media/grouppic.1aa81ab0.jpg",
+    "static/media/linkedinicon.png": "./static/media/linkedinicon.07f23308.png",
+    "static/media/navlogo.png": "./static/media/navlogo.82bfcf13.png",
+    "static/media/piprofile.png": "./static/media/piprofile.c352ec93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a023ad9.js",
+    "static/js/2.5c855351.chunk.js",
+    "static/css/main.6bbff01c.chunk.css",
+    "static/js/main.30503c28.chunk.js"
+  ]
+}
